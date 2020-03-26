@@ -1,0 +1,30 @@
+.navbar-header {
+    float: left;
+    text-align: center;
+    width: 100%;
+}
+.navbar-brand {float:none;}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 70px;
+    width: 100%;
+    overflow: hidden;
+}
+
+        #mysearch{
+            width: 100%;
+            margin-top: 50px;
+        }
+
+        .search_box{
+            width: 100%;
+            margin: auto;
+        }
